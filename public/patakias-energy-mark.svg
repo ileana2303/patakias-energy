@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">PATAKIAS ENERGY</title>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="#071A24"/>
+  <rect x="3" y="3" width="58" height="58" rx="17" fill="none" stroke="#52D7CC" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M17 48V16h17c8.3 0 14 5 14 12.5S42.3 41 34 41H17" fill="none" stroke="#C7F45C" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m35 20-8 12h7l-4 11 14-17h-8Z" fill="#F4BD3D"/>
+</svg>
