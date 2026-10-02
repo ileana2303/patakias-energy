@@ -467,13 +467,15 @@ export default function Home() {
                       Ι.Κ.Ε.
                     </p>
                   </div>
-                  <div>
-                    <p className="detail-label">Έδρα</p>
-                    <p className="mt-1">Αθήνα</p>
-                  </div>
-                  <div>
-                    <p className="detail-label">Διεύθυνση</p>
-                    <p className="mt-1">Λιοσίων 117, Τ.Κ. 10440, Αθήνα</p>
+                  <div className="grid gap-4 sm:grid-cols-2">
+                    <div>
+                      <p className="detail-label">Διεύθυνση</p>
+                      <p className="mt-1">Αναγεννήσεως 11</p>
+                    </div>
+                    <div>
+                      <p className="detail-label">Περιοχή</p>
+                      <p className="mt-1">Ν.Ιωνία, Τ.Κ. 14233</p>
+                    </div>
                   </div>
                   <div className="grid gap-4 sm:grid-cols-2">
                     <div>
@@ -536,10 +538,10 @@ export default function Home() {
                       Τηλέφωνο επικοινωνίας
                     </p>
                     <a
-                      href="tel:+306970263932"
+                      href="tel:+306973827888"
                       className="mt-3 inline-block text-sm text-white/64 transition hover:text-white"
                     >
-                      697 026 3932
+                      697 3827888
                     </a>
                   </div>
                 </div>
